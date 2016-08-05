@@ -1,0 +1,2 @@
+# ViewPagerIndicator
+Follow slide indicator
